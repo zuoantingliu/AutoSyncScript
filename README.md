@@ -30,7 +30,7 @@
 
 ```
 
-^_^
+lv
 
 ### AutoSyncScript项目介绍
 ```

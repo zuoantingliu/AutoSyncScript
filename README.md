@@ -30,7 +30,7 @@
 
 ```
 
-lv
+lvok
 
 ### AutoSyncScript项目介绍
 ```
